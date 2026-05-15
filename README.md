@@ -31,7 +31,7 @@ bash download_data_all.sh
 ```
 Datasets configs for different multi-task settings are shown in `.ymal` files of the `data_provider` folder.
 
-By default, all experiments follow the multi-task setting where one UniTS model is jointly trained on  mulitple datasets.
+By default, all experiments follow the multi-task setting where one UniTS model is jointly trained on  multiple datasets.
 
 ### 3. Train and evaluate model
 
