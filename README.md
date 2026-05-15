@@ -125,7 +125,7 @@ This codebase is built based on the [Time-Series-Library](https://github.com/thu
 
 DISTRIBUTION STATEMENT: Approved for public release. Distribution is unlimited.
 
-This material is based upon work supported by the Under Secretary of Defense for Research and Engineering under Air Force Contract No. FA8702-15-D-0001. Any opinions, findings, conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the Under Secretary of Defense for Research and Engineering.
+This material is based upon work supported by the Under Secretary of Defense for Research and Engineering under Air Force Contract No. FA8702-15-D-0001. Any opinions, findings, conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the Under Secretary of Defence for Research and Engineering.
 
 © 2024 Massachusetts Institute of Technology.
 
