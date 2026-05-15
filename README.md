@@ -33,7 +33,7 @@ Datasets configs for different multi-task settings are shown in `.ymal` files of
 
 By default, all experiments follow the multi-task setting where one UniTS model is jointly trained on  multiple datasets.
 
-### 3. Train and evaluate model
+### 3. Train and evaluate the model
 
 #### 1. Multi-task learning on forecasting and classification tasks:
 
