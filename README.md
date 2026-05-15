@@ -96,7 +96,7 @@ bash ./scripts/zero_shot/UniTS_forecast_new_length_unify.sh
 
 #### 6. Zero-shot learning on new forecasting datasets:
 ```
-# A special verison of UniTS with shared prompt/mask tokens needs to be trained for this setting.
+# A special version of UniTS with shared prompt/mask tokens needs to be trained for this setting.
 bash ./scripts/zero_shot/UniTS_zeroshot_newdata.sh
 ```
 
